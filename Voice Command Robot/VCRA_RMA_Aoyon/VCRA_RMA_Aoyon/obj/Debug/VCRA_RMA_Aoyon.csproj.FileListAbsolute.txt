@@ -1,0 +1,10 @@
+c:\users\sidewinder\documents\visual studio 2012\Projects\VCRA_RMA_Aoyon\VCRA_RMA_Aoyon\obj\Debug\VCRA_RMA_Aoyon.csprojResolveAssemblyReference.cache
+c:\users\sidewinder\documents\visual studio 2012\Projects\VCRA_RMA_Aoyon\VCRA_RMA_Aoyon\obj\Debug\VCRA_RMA_Aoyon.Form1.resources
+c:\users\sidewinder\documents\visual studio 2012\Projects\VCRA_RMA_Aoyon\VCRA_RMA_Aoyon\obj\Debug\VCRA_RMA_Aoyon.Properties.Resources.resources
+c:\users\sidewinder\documents\visual studio 2012\Projects\VCRA_RMA_Aoyon\VCRA_RMA_Aoyon\obj\Debug\VCRA_RMA_Aoyon.csproj.GenerateResource.Cache
+c:\users\sidewinder\documents\visual studio 2012\Projects\VCRA_RMA_Aoyon\VCRA_RMA_Aoyon\bin\Debug\VCRA_RMA_Aoyon.exe
+c:\users\sidewinder\documents\visual studio 2012\Projects\VCRA_RMA_Aoyon\VCRA_RMA_Aoyon\bin\Debug\VCRA_RMA_Aoyon.pdb
+c:\users\sidewinder\documents\visual studio 2012\Projects\VCRA_RMA_Aoyon\VCRA_RMA_Aoyon\obj\Debug\VCRA_RMA_Aoyon.exe
+c:\users\sidewinder\documents\visual studio 2012\Projects\VCRA_RMA_Aoyon\VCRA_RMA_Aoyon\obj\Debug\VCRA_RMA_Aoyon.pdb
+F:\Projects\Voice Command\VCRA_RMA_Aoyon\VCRA_RMA_Aoyon\obj\Debug\VCRA_RMA_Aoyon.exe
+F:\Projects\Voice Command\VCRA_RMA_Aoyon\VCRA_RMA_Aoyon\obj\Debug\VCRA_RMA_Aoyon.pdb

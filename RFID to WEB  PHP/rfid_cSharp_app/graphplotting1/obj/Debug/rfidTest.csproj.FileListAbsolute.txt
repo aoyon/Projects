@@ -1,0 +1,39 @@
+C:\Users\Ahamed Nasif\Desktop\New folder (5)\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe.config
+C:\Users\Ahamed Nasif\Desktop\New folder (5)\graphplotting1\graphplotting1\obj\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\New folder (5)\graphplotting1\graphplotting1\obj\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\New folder (5)\graphplotting1\graphplotting1\obj\Debug\rfidTest.csprojResolveAssemblyReference.cache
+C:\Users\Ahamed Nasif\Desktop\New folder (5)\graphplotting1\graphplotting1\obj\Debug\rfidTest.csproj.GenerateResource.Cache
+C:\Users\Ahamed Nasif\Desktop\New folder (5)\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\New folder (5)\graphplotting1\graphplotting1\bin\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\New folder (5)\graphplotting1\graphplotting1\obj\Debug\rfidTest.Form1.resources
+C:\Users\Ahamed Nasif\Desktop\New folder (5)\graphplotting1\graphplotting1\obj\Debug\rfidTest.Properties.Resources.resources
+C:\Users\Ahamed Nasif\Desktop\08\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe.config
+C:\Users\Ahamed Nasif\Desktop\08\graphplotting1\graphplotting1\obj\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\08\graphplotting1\graphplotting1\obj\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\08\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\08\graphplotting1\graphplotting1\bin\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\08\graphplotting1\graphplotting1\obj\Debug\rfidTest.csprojResolveAssemblyReference.cache
+C:\Users\Ahamed Nasif\Desktop\08\graphplotting1\graphplotting1\obj\Debug\rfidTest.Form1.resources
+C:\Users\Ahamed Nasif\Desktop\08\graphplotting1\graphplotting1\obj\Debug\rfidTest.Properties.Resources.resources
+C:\Users\Ahamed Nasif\Desktop\08\graphplotting1\graphplotting1\obj\Debug\rfidTest.csproj.GenerateResource.Cache
+C:\Users\Ahamed Nasif\Desktop\08\rfid\graphplotting1\bin\Debug\graphplotting1.exe.config
+C:\Users\Ahamed Nasif\Desktop\08\rfid\graphplotting1\obj\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\08\rfid\graphplotting1\obj\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\08\rfid\graphplotting1\bin\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\08\rfid\graphplotting1\bin\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\08\rfid\graphplotting1\obj\Debug\rfidTest.csprojResolveAssemblyReference.cache
+C:\Users\Ahamed Nasif\Desktop\08\rfid\graphplotting1\obj\Debug\rfidTest.Form1.resources
+C:\Users\Ahamed Nasif\Desktop\08\rfid\graphplotting1\obj\Debug\rfidTest.Properties.Resources.resources
+C:\Users\Ahamed Nasif\Desktop\08\rfid\graphplotting1\obj\Debug\rfidTest.csproj.GenerateResource.Cache
+C:\Users\Ahamed Nasif\Desktop\08\rfid_cSharp_app\graphplotting1\bin\Debug\graphplotting1.exe.config
+C:\Users\Ahamed Nasif\Desktop\08\rfid_cSharp_app\graphplotting1\obj\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\08\rfid_cSharp_app\graphplotting1\obj\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\08\rfid_cSharp_app\graphplotting1\bin\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\08\rfid_cSharp_app\graphplotting1\bin\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\08\rfid_cSharp_app\graphplotting1\obj\Debug\rfidTest.csprojResolveAssemblyReference.cache
+C:\Users\Ahamed Nasif\Desktop\08\rfid_cSharp_app\graphplotting1\obj\Debug\rfidTest.Form1.resources
+C:\Users\Ahamed Nasif\Desktop\08\rfid_cSharp_app\graphplotting1\obj\Debug\rfidTest.Properties.Resources.resources
+C:\Users\Ahamed Nasif\Desktop\08\rfid_cSharp_app\graphplotting1\obj\Debug\rfidTest.csproj.GenerateResource.Cache
+F:\Projects\RFID  PHPJotey Apu\rfid_cSharp_app\graphplotting1\bin\Debug\graphplotting1.exe.config
+F:\Projects\RFID  PHPJotey Apu\rfid_cSharp_app\graphplotting1\obj\Debug\graphplotting1.exe
+F:\Projects\RFID  PHPJotey Apu\rfid_cSharp_app\graphplotting1\obj\Debug\graphplotting1.pdb

@@ -1,0 +1,16 @@
+main
+	__CC2DW
+		____DoICP
+	SPI1_Init_Advanced
+	UART1_Init
+	UART1_Write_Text
+		UART1_Write
+	UART1_Write
+	ADXL345_Write
+		SPI1_Write
+	ADXL345_Read
+		SPI1_Write
+		SPI1_Read
+	IntToStr
+		WordToStr
+			Div_16x16_U

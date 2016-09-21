@@ -1,0 +1,86 @@
+c:\users\ahmed\documents\visual studio 2012\Projects\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe.config
+c:\users\ahmed\documents\visual studio 2012\Projects\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe
+c:\users\ahmed\documents\visual studio 2012\Projects\graphplotting1\graphplotting1\bin\Debug\graphplotting1.pdb
+c:\users\ahmed\documents\visual studio 2012\Projects\graphplotting1\graphplotting1\obj\Debug\graphplotting1.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2012\Projects\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Form1.resources
+c:\users\ahmed\documents\visual studio 2012\Projects\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Properties.Resources.resources
+c:\users\ahmed\documents\visual studio 2012\Projects\graphplotting1\graphplotting1\obj\Debug\graphplotting1.csproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2012\Projects\graphplotting1\graphplotting1\obj\Debug\graphplotting1.exe
+c:\users\ahmed\documents\visual studio 2012\Projects\graphplotting1\graphplotting1\obj\Debug\graphplotting1.pdb
+E:\dropbox\Projects\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe.config
+E:\dropbox\Projects\graphplotting1\graphplotting1\obj\Debug\graphplotting1.exe
+E:\dropbox\Projects\graphplotting1\graphplotting1\obj\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe.config
+C:\Users\Ahamed Nasif\Desktop\graphplotting1\graphplotting1\obj\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\graphplotting1\graphplotting1\obj\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\graphplotting1\graphplotting1\bin\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\graphplotting1\graphplotting1\obj\Debug\graphplotting1.csprojResolveAssemblyReference.cache
+C:\Users\Ahamed Nasif\Desktop\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Form1.resources
+C:\Users\Ahamed Nasif\Desktop\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Properties.Resources.resources
+C:\Users\Ahamed Nasif\Desktop\graphplotting1\graphplotting1\obj\Debug\graphplotting1.csproj.GenerateResource.Cache
+C:\Users\Ahamed Nasif\Desktop\Graphing\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe.config
+C:\Users\Ahamed Nasif\Desktop\Graphing\graphplotting1\graphplotting1\obj\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\Graphing\graphplotting1\graphplotting1\obj\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\Graphing\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\Graphing\graphplotting1\graphplotting1\bin\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\Graphing\graphplotting1\graphplotting1\obj\Debug\graphplotting1.csprojResolveAssemblyReference.cache
+C:\Users\Ahamed Nasif\Desktop\Graphing\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Form1.resources
+C:\Users\Ahamed Nasif\Desktop\Graphing\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Properties.Resources.resources
+C:\Users\Ahamed Nasif\Desktop\Graphing\graphplotting1\graphplotting1\obj\Debug\graphplotting1.csproj.GenerateResource.Cache
+C:\Users\Ahamed Nasif\Desktop\Ruhul vai\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe.config
+C:\Users\Ahamed Nasif\Desktop\Ruhul vai\graphplotting1\graphplotting1\obj\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\Ruhul vai\graphplotting1\graphplotting1\obj\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\Ruhul vai\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\Ruhul vai\graphplotting1\graphplotting1\bin\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\Ruhul vai\graphplotting1\graphplotting1\obj\Debug\graphplotting1.csprojResolveAssemblyReference.cache
+C:\Users\Ahamed Nasif\Desktop\Ruhul vai\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Form1.resources
+C:\Users\Ahamed Nasif\Desktop\Ruhul vai\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Properties.Resources.resources
+C:\Users\Ahamed Nasif\Desktop\Ruhul vai\graphplotting1\graphplotting1\obj\Debug\graphplotting1.csproj.GenerateResource.Cache
+O:\Ruhul vai\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe.config
+O:\Ruhul vai\graphplotting1\graphplotting1\obj\Debug\graphplotting1.exe
+O:\Ruhul vai\graphplotting1\graphplotting1\obj\Debug\graphplotting1.pdb
+O:\Ruhul vai\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe
+O:\Ruhul vai\graphplotting1\graphplotting1\bin\Debug\graphplotting1.pdb
+O:\Ruhul vai\graphplotting1\graphplotting1\obj\Debug\ResolveAssemblyReference.cache
+O:\Ruhul vai\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Form1.resources
+O:\Ruhul vai\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Properties.Resources.resources
+O:\Ruhul vai\graphplotting1\graphplotting1\obj\Debug\GenerateResource.read.1.tlog
+O:\Ruhul vai\graphplotting1\graphplotting1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\ARNAB\Desktop\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe.config
+C:\Users\ARNAB\Desktop\graphplotting1\graphplotting1\obj\Debug\graphplotting1.exe
+C:\Users\ARNAB\Desktop\graphplotting1\graphplotting1\obj\Debug\graphplotting1.pdb
+C:\Users\ARNAB\Desktop\graphplotting1\graphplotting1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ARNAB\Desktop\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Form1.resources
+C:\Users\ARNAB\Desktop\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Properties.Resources.resources
+C:\Users\ARNAB\Desktop\graphplotting1\graphplotting1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\ARNAB\Desktop\graphplotting1\graphplotting1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\ARNAB\Desktop\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe
+C:\Users\ARNAB\Desktop\graphplotting1\graphplotting1\bin\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\BioMed\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe.config
+C:\Users\Ahamed Nasif\Desktop\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.pdb
+C:\Users\Ahamed Nasif\Desktop\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.csprojResolveAssemblyReference.cache
+C:\Users\Ahamed Nasif\Desktop\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Form1.resources
+C:\Users\Ahamed Nasif\Desktop\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Properties.Resources.resources
+C:\Users\Ahamed Nasif\Desktop\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.csproj.GenerateResource.Cache
+C:\Users\Ahamed Nasif\Desktop\BioMed\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe
+C:\Users\Ahamed Nasif\Desktop\BioMed\graphplotting1\graphplotting1\bin\Debug\graphplotting1.pdb
+F:\Projects\BioMed\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe.config
+F:\Projects\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.exe
+F:\Projects\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.pdb
+F:\Projects\BioMed\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe
+F:\Projects\BioMed\graphplotting1\graphplotting1\bin\Debug\graphplotting1.pdb
+F:\Projects\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.csprojResolveAssemblyReference.cache
+F:\Projects\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Form1.resources
+F:\Projects\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Properties.Resources.resources
+F:\Projects\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.csproj.GenerateResource.Cache
+E:\Projects\BioMed\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe.config
+E:\Projects\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.exe
+E:\Projects\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.pdb
+E:\Projects\BioMed\graphplotting1\graphplotting1\bin\Debug\graphplotting1.exe
+E:\Projects\BioMed\graphplotting1\graphplotting1\bin\Debug\graphplotting1.pdb
+E:\Projects\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.csprojResolveAssemblyReference.cache
+E:\Projects\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Form1.resources
+E:\Projects\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.Properties.Resources.resources
+E:\Projects\BioMed\graphplotting1\graphplotting1\obj\Debug\graphplotting1.csproj.GenerateResource.Cache
